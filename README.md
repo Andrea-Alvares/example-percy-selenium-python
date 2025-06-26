@@ -121,3 +121,5 @@ completed' button. The unchanged snapshots appear grouped together at the bottom
 
 From here, you can try making your own changes to the app and tests, if you like. If you do, re-run
 the tests  and you'll see any visual changes reflected in Percy.
+
+
